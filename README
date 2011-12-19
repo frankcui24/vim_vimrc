@@ -1,0 +1,5 @@
+Incorporate python-mode,perl-support.vim and taglist.
+
+python-mode : https://github.com/klen/python-mode
+perl-support.vim : http://www.vim.org/scripts/script.php?script_id=556
+taglist : http://www.vim.org/scripts/script.php?script_id=273
